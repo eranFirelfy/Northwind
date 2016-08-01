@@ -1,0 +1,67 @@
+Microsoft Visual Studio Enterprise 2015
+Version 14.0.24720.00 Update 1
+Microsoft .NET Framework
+Version 4.6.01055
+
+Installed Version: Enterprise
+
+Architecture and Modeling Tools   00322-80000-00000-AA684
+Microsoft Architecture and Modeling Tools
+    
+UML® and Unified Modeling Language™ are trademarks or registered trademarks of the Object Management Group, Inc. in the United States and other countries.
+
+Visual Basic 2015   00322-80000-00000-AA684
+Microsoft Visual Basic 2015
+
+Visual C# 2015   00322-80000-00000-AA684
+Microsoft Visual C# 2015
+
+Visual C++ 2015   00322-80000-00000-AA684
+Microsoft Visual C++ 2015
+
+AnkhSVN - Subversion Support for Visual Studio   2.5.12471.17
+AnkhSVN - Subversion Support for Visual Studio 2.5.12471.17 
+ * Ankh.Package 2.5.12471.17
+ * Subversion 1.8.9 via SharpSvn 1.8009.3299.43
+
+SharpSvn is linked to: Apr 1.5.1, Apr-util 1.5.3, Cyrus Sasl 2.1.25, eXpat 2.0.1, OpenSSL 1.0.1g 7 Apr 2014, serf 1.3.5, SQLite 3.7.17, Subversion 1.8.9-SharpSvn-1.8.9, ZLib 1.2.8
+SharpSvn is optionally linked to: Berkeley DB 4.4.20, SharpPlink 1.8009.3299.43
+
+Application Insights Tools for Visual Studio Package   1.0
+Application Insights Tools for Visual Studio
+
+ASP.NET and Web Tools 2015.1 (Beta8)   14.1.11106.0
+ASP.NET and Web Tools 2015.1 (Beta8)
+
+ASP.NET Web Frameworks and Tools 2012.2   4.1.41102.0
+For additional information, visit http://go.microsoft.com/fwlink/?LinkID=309563
+
+ASP.NET Web Frameworks and Tools 2013   5.2.30624.0
+For additional information, visit http://www.asp.net/
+
+Common Azure Tools   1.5
+Provides common services for use by Azure Mobile Services and Microsoft Azure Tools.
+
+Firefly Toolbox   1.0
+Firefly Toolbox
+
+Microsoft Azure Mobile Services Tools   1.4
+Microsoft Azure Mobile Services Tools
+
+NuGet Package Manager   3.3.0
+NuGet Package Manager in Visual Studio. For more information about NuGet, visit http://docs.nuget.org/.
+
+PreEmptive Analytics Visualizer   1.2
+Microsoft Visual Studio extension to visualize aggregated summaries from the PreEmptive Analytics product.
+
+SQL Server Data Tools   14.0.50616.0
+Microsoft SQL Server Data Tools
+
+TypeScript   1.7.4.0
+TypeScript for Microsoft Visual Studio
+
+VSDropAssistPackage Extension   1.0
+VSDropAssistPackage Visual Studio Extension Detailed Info
+
+VSPackage1   1.0
+Information about my package
