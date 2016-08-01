@@ -10,3 +10,4 @@ del Northwind\bin\Debug\*.* /q
 msbuild Northwind\Northwind.csproj /filelogger1 /fileloggerparameters1:logfile=buildDebug.log;append;verbosity=n /p:Configuration=Debug /p:Platform=AnyCPU  /maxcpucount:%NUMBER_OF_PROCESSORS%
 cd Northwind\bin\Debug
 start Northwind.exe
+rem this is my comment
